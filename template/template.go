@@ -28,8 +28,8 @@ import (
 	tmpltext "text/template"
 	"time"
 
-	commonTemplates "github.com/prometheus/common/helpers/templates"
-	"github.com/prometheus/common/model"
+	commonTemplates "github.com/hanzoai/common/helpers/templates"
+	"github.com/hanzoai/common/model"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
 	"gopkg.in/yaml.v2"

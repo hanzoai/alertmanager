@@ -24,9 +24,9 @@ import (
 	"github.com/alecthomas/kingpin/v2"
 	clientruntime "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
-	promconfig "github.com/prometheus/common/config"
-	"github.com/prometheus/common/promslog"
-	"github.com/prometheus/common/version"
+	promconfig "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/promslog"
+	"github.com/hanzoai/common/version"
 	"golang.org/x/mod/semver"
 
 	"github.com/prometheus/alertmanager/api/v2/client"

@@ -16,7 +16,7 @@ package receiver
 import (
 	"testing"
 
-	commoncfg "github.com/prometheus/common/config"
+	commoncfg "github.com/hanzoai/common/config"
 	"github.com/stretchr/testify/require"
 
 	"github.com/prometheus/alertmanager/config"

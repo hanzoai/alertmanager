@@ -28,8 +28,8 @@ import (
 	"text/template"
 	"time"
 
-	commoncfg "github.com/prometheus/common/config"
-	"github.com/prometheus/common/model"
+	commoncfg "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/model"
 	"gopkg.in/yaml.v2"
 
 	"github.com/prometheus/alertmanager/matcher/compat"

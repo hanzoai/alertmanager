@@ -21,7 +21,7 @@ import (
 	tmpltext "text/template"
 	"time"
 
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 	"github.com/stretchr/testify/require"
 
 	"github.com/prometheus/alertmanager/types"

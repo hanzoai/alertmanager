@@ -20,7 +20,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/prometheus/common/route"
+	"github.com/hanzoai/common/route"
 	"github.com/stretchr/testify/require"
 )
 

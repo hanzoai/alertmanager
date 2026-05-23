@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/promslog"
 	"github.com/stretchr/testify/require"
 )
 

@@ -30,8 +30,8 @@ import (
 	"github.com/hashicorp/go-sockaddr"
 	"github.com/hashicorp/memberlist"
 	"github.com/prometheus/alertmanager/internal/promshim"
-	common "github.com/prometheus/common/config"
-	"github.com/prometheus/exporter-toolkit/web"
+	common "github.com/hanzoai/common/config"
+	"github.com/hanzoai/exporter-toolkit/web"
 )
 
 const (

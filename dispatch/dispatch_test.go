@@ -25,8 +25,8 @@ import (
 
 	"github.com/prometheus/alertmanager/internal/promshim"
 	"github.com/prometheus/client_golang/prometheus/testutil"
-	"github.com/prometheus/common/model"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/model"
+	"github.com/hanzoai/common/promslog"
 	"github.com/stretchr/testify/require"
 
 	"github.com/prometheus/alertmanager/config"

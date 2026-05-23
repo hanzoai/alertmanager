@@ -24,9 +24,9 @@ import (
 	"time"
 
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/model"
-	"github.com/prometheus/common/promslog"
-	"github.com/prometheus/common/route"
+	"github.com/hanzoai/common/model"
+	"github.com/hanzoai/common/promslog"
+	"github.com/hanzoai/common/route"
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 
 	apiv2 "github.com/prometheus/alertmanager/api/v2"

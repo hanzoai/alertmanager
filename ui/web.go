@@ -22,7 +22,7 @@ import (
 	"strings"
 
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/route"
+	"github.com/hanzoai/common/route"
 
 	"github.com/prometheus/alertmanager/asset"
 )

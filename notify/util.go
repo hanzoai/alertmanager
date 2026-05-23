@@ -25,8 +25,8 @@ import (
 	"slices"
 	"strings"
 
-	commoncfg "github.com/prometheus/common/config"
-	"github.com/prometheus/common/version"
+	commoncfg "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/version"
 
 	"github.com/prometheus/alertmanager/template"
 	"github.com/prometheus/alertmanager/tracing"

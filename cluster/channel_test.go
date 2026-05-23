@@ -22,7 +22,7 @@ import (
 
 	"github.com/hashicorp/memberlist"
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/promslog"
 )
 
 func TestNormalMessagesGossiped(t *testing.T) {

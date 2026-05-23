@@ -16,8 +16,8 @@ package compat
 import (
 	"testing"
 
-	"github.com/prometheus/common/model"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/model"
+	"github.com/hanzoai/common/promslog"
 	"github.com/stretchr/testify/require"
 
 	"github.com/prometheus/alertmanager/pkg/labels"

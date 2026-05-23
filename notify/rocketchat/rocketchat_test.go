@@ -18,8 +18,8 @@ import (
 	"os"
 	"testing"
 
-	commoncfg "github.com/prometheus/common/config"
-	"github.com/prometheus/common/promslog"
+	commoncfg "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/promslog"
 	"github.com/stretchr/testify/require"
 
 	"github.com/prometheus/alertmanager/config"

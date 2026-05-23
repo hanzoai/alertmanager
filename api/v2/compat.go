@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/go-openapi/strfmt"
-	prometheus_model "github.com/prometheus/common/model"
+	prometheus_model "github.com/hanzoai/common/model"
 
 	open_api_models "github.com/prometheus/alertmanager/api/v2/models"
 	"github.com/prometheus/alertmanager/silence/silencepb"

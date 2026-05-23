@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 
 	"github.com/prometheus/alertmanager/limit"
 	"github.com/prometheus/alertmanager/types"

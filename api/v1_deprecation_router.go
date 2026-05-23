@@ -16,7 +16,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/prometheus/common/route"
+	"github.com/hanzoai/common/route"
 )
 
 // V1DeprecationRouter is the router to signal v1 users that the API v1 is now removed.

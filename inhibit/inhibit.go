@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/oklog/run"
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/codes"

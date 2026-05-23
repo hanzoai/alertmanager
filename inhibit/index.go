@@ -16,7 +16,7 @@ package inhibit
 import (
 	"sync"
 
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 )
 
 // index contains map of fingerprints to fingerprints.

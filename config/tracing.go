@@ -17,8 +17,8 @@ import (
 	"errors"
 	"fmt"
 
-	commoncfg "github.com/prometheus/common/config"
-	"github.com/prometheus/common/model"
+	commoncfg "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/model"
 )
 
 // TODO: probably move these into prometheus/common since they're copied from

@@ -42,9 +42,9 @@ import (
 	"time"
 
 	"github.com/emersion/go-smtp"
-	commoncfg "github.com/prometheus/common/config"
-	"github.com/prometheus/common/model"
-	"github.com/prometheus/common/promslog"
+	commoncfg "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/model"
+	"github.com/hanzoai/common/promslog"
 
 	// nolint:depguard // require cannot be called outside the main goroutine: https://pkg.go.dev/testing#T.FailNow
 	"github.com/stretchr/testify/assert"

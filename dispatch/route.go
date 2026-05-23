@@ -21,7 +21,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 
 	"github.com/prometheus/alertmanager/config"
 	"github.com/prometheus/alertmanager/pkg/labels"

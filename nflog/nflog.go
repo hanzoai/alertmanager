@@ -32,7 +32,7 @@ import (
 	"github.com/coder/quartz"
 	"github.com/matttproud/golang_protobuf_extensions/pbutil"
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/promslog"
 
 	"github.com/prometheus/alertmanager/cluster"
 	pb "github.com/prometheus/alertmanager/nflog/nflogpb"

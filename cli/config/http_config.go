@@ -17,7 +17,7 @@ import (
 	"os"
 	"path/filepath"
 
-	promconfig "github.com/prometheus/common/config"
+	promconfig "github.com/hanzoai/common/config"
 	"gopkg.in/yaml.v2"
 )
 

@@ -22,7 +22,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 )
 
 // MatchType is an enum for label matching types.

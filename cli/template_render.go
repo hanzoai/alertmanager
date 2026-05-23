@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/alecthomas/kingpin/v2"
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 
 	"github.com/prometheus/alertmanager/template"
 )

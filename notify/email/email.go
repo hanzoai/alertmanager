@@ -33,7 +33,7 @@ import (
 	"sync"
 	"time"
 
-	commoncfg "github.com/prometheus/common/config"
+	commoncfg "github.com/hanzoai/common/config"
 
 	"github.com/prometheus/alertmanager/config"
 	"github.com/prometheus/alertmanager/notify"

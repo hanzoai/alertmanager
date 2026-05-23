@@ -21,7 +21,7 @@ import (
 	"os"
 
 	"github.com/alecthomas/kingpin/v2"
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 
 	"github.com/prometheus/alertmanager/api/v2/client/general"
 	"github.com/prometheus/alertmanager/api/v2/models"

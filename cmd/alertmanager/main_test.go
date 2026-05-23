@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/promslog"
 	"github.com/stretchr/testify/require"
 )
 

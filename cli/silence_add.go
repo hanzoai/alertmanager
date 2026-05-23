@@ -23,7 +23,7 @@ import (
 
 	"github.com/alecthomas/kingpin/v2"
 	"github.com/go-openapi/strfmt"
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 
 	"github.com/prometheus/alertmanager/api/v2/client/silence"
 	"github.com/prometheus/alertmanager/api/v2/models"

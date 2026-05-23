@@ -18,8 +18,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/prometheus/common/config"
-	"github.com/prometheus/exporter-toolkit/web"
+	"github.com/hanzoai/common/config"
+	"github.com/hanzoai/exporter-toolkit/web"
 	"gopkg.in/yaml.v2"
 )
 

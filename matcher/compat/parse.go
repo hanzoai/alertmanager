@@ -20,8 +20,8 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/prometheus/common/model"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/model"
+	"github.com/hanzoai/common/promslog"
 
 	"github.com/prometheus/alertmanager/featurecontrol"
 	"github.com/prometheus/alertmanager/matcher/parse"

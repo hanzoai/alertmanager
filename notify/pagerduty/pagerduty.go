@@ -26,8 +26,8 @@ import (
 	"strings"
 
 	"github.com/alecthomas/units"
-	commoncfg "github.com/prometheus/common/config"
-	"github.com/prometheus/common/model"
+	commoncfg "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/model"
 
 	"github.com/prometheus/alertmanager/config"
 	"github.com/prometheus/alertmanager/notify"

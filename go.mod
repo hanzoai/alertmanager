@@ -26,17 +26,18 @@ require (
 	github.com/go-openapi/validate v0.25.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/uuid v1.6.0
+	github.com/hanzoai/common v0.67.5-hanzo.1
+	github.com/hanzoai/exporter-toolkit v0.15.1-hanzo.1
+	github.com/hanzoai/sigv4 v0.4.1-hanzo.1
 	github.com/hashicorp/go-sockaddr v1.0.7
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/memberlist v0.5.4
 	github.com/jessevdk/go-flags v1.6.1
+	github.com/luxfi/metric v1.5.6
 	github.com/matttproud/golang_protobuf_extensions v1.0.4
 	github.com/oklog/run v1.2.0
 	github.com/oklog/ulid/v2 v2.1.1
 	github.com/prometheus/client_golang v1.23.2
-	github.com/prometheus/common v0.67.5
-	github.com/prometheus/exporter-toolkit v0.15.1
-	github.com/prometheus/sigv4 v0.4.1
 	github.com/rs/cors v1.11.1
 	github.com/shurcooL/httpfs v0.0.0-20230704072500-f1e31cf0ba5c
 	github.com/shurcooL/vfsgen v0.0.0-20230704071429-0000e147ea92
@@ -98,20 +99,17 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/hashicorp/golang-lru v1.0.2 // indirect
-	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
-	github.com/klauspost/compress v1.18.5 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
-	github.com/luxfi/metric v1.5.6 // indirect
 	github.com/mdlayher/socket v0.5.1 // indirect
 	github.com/mdlayher/vsock v1.2.1 // indirect
 	github.com/miekg/dns v1.1.72 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
-	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/client_model v0.6.2 // indirect
+	github.com/prometheus/common v0.67.5 // indirect
 	github.com/prometheus/procfs v0.20.1 // indirect
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/xhit/go-str2duration/v2 v2.1.0 // indirect

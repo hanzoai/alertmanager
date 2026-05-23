@@ -18,7 +18,7 @@ import (
 	"testing"
 
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/promslog"
 )
 
 type fakeRegisterer struct {

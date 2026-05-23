@@ -22,9 +22,9 @@ import (
 	"strings"
 	"time"
 
-	commoncfg "github.com/prometheus/common/config"
-	"github.com/prometheus/common/model"
-	"github.com/prometheus/sigv4"
+	commoncfg "github.com/hanzoai/common/config"
+	"github.com/hanzoai/common/model"
+	"github.com/hanzoai/sigv4"
 )
 
 var (

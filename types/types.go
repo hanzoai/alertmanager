@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 
 	"github.com/prometheus/alertmanager/matcher/compat"
 	"github.com/prometheus/alertmanager/pkg/labels"

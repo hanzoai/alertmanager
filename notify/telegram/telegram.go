@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"strings"
 
-	commoncfg "github.com/prometheus/common/config"
+	commoncfg "github.com/hanzoai/common/config"
 	"gopkg.in/telebot.v3"
 
 	"github.com/prometheus/alertmanager/config"

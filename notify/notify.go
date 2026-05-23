@@ -25,7 +25,7 @@ import (
 	"github.com/cenkalti/backoff/v4"
 	"github.com/cespare/xxhash/v2"
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/model"
+	"github.com/hanzoai/common/model"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/codes"

@@ -22,7 +22,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/prometheus/alertmanager/internal/promshim"
-	"github.com/prometheus/common/promslog"
+	"github.com/hanzoai/common/promslog"
 )
 
 func TestClusterJoinAndReconnect(t *testing.T) {
