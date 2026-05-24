@@ -26,9 +26,9 @@ require (
 	github.com/go-openapi/validate v0.25.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/uuid v1.6.0
-	github.com/hanzoai/common v0.67.5-hanzo.1
-	github.com/hanzoai/exporter-toolkit v0.15.1-hanzo.1
-	github.com/hanzoai/sigv4 v0.4.1-hanzo.1
+	github.com/hanzoai/common v0.67.6
+	github.com/hanzoai/exporter-toolkit v0.15.2
+	github.com/hanzoai/sigv4 v0.4.2
 	github.com/hashicorp/go-sockaddr v1.0.7
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/hashicorp/memberlist v0.5.4
